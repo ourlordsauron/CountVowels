@@ -1,0 +1,14 @@
+C:\Users\italm\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+C:\Users\italm\source\repos\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csprojAssemblyReference.cache
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\MainWindow.g.cs
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\App.g.cs
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels_MarkupCompile.cache
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels_MarkupCompile.lref
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\MainWindow.baml
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.g.resources
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.Properties.Resources.resources
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.GenerateResource.cache
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.exe
+C:\Users\italm\source\repos\CountVowels\CountVowels\obj\Debug\CountVowels.pdb
